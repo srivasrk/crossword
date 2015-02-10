@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<dataset>
+    <record>
+       <Number>1</Number>
+       <Question>1) Meant to be a registry of services, and stores information about what services are available and who may use them. </Question>
+       <Answer>BROKER</Answer>
+    </record>
+    <record>
+       <Number>2</Number>
+       <Question>3) A standardized protocol for creating and consuming data AP.
+It builds on core protocols like HTTP and methodologies like REST</Question>
+       <Answer>ODATA</Answer>
+    </record>
+    <record>
+       <Number>4</Number>
+       <Question>4) A http request method that submits data to be processed to a specified resource.
+This request never remains in browser cache or history</Question>
+       <Answer>POST</Answer>
+    </record>
+    <record>
+       <Number>3</Number>
+       <Question>5) A protocol specification for exchanging structured information in the implementation of web services in computer networks</Question>
+       <Answer>SOAP</Answer>
+    </record>
+    <record>
+       <Number>6</Number>
+       <Question>6) A sofware architectural style for designing web applications.
+Also an alternative to mechanisms like RPC and webservices such as SOAP,WSDL etc.
+Uses Http to make calls between machines</Question>
+       <Answer>REST</Answer>
+    </record>
+    <record>
+       <Number>5</Number>
+       <Question>7) An XML-based interface definition language that is used for describing the functionality offered by a web service</Question>
+       <Answer>WSDL</Answer>
+    </record>
+</dataset>
